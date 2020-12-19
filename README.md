@@ -1,2 +1,2 @@
 # Wordpress
-Sample site made with the help of wordpress.
+Sample site made with the help of Wordpress.
